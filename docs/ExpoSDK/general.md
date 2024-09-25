@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 The **Expo SDK** provides access to device and system functionality such as contacts, camera, GPS location, and so on.
 
-Expo SDK packages can be installed unsing the following command:
+Expo SDK packages can be installed using the following command:
 ```bash
 npm expo install [package]
 ```
